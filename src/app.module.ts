@@ -9,7 +9,7 @@ import { MongooseModule } from '@nestjs/mongoose';
     AuthModule,
     UserModule,
     MongooseModule.forRoot(
-      'mongodb+srv://fashion-cart-sjai:%23%25Devsati&&110096@fashioncart.sq8kteg.mongodb.net/NestDB?retryWrites=true&w=majority',
+      '?????????',
     ),
   ],
   // controllers: [AppController],
