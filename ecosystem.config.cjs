@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "express-app",
+      name: "backend",
       script: "./dist/main.js", // TypeScript compiled output
       instances: "max",
       exec_mode: "cluster",
