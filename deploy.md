@@ -13,7 +13,7 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 sudo apt-get install npm -y
 sudo npm i -g n
-sudo n lts # sudo n 22.0.1
+sudo n lts # sudo n 24.13.1
 ```
 
 **After that exit your instance and relogin to check the new node js version**
